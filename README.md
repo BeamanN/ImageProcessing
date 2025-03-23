@@ -1,2 +1,11 @@
-# ImageProcessing
-For this project, you will be completing an imageprocessing library that can process imagesusing matrix operations.  All images can be representedas a matrix of single-byte values, wherea pixel at matrix location (i, j) is represented bya number between 0 and 255.  A color imageconsists of three channels: a red channel (R),  agreen channel (G), and a blue channel (B), andthe corresponding matrix information for an imageinclude three matrixes, each with the samenumber of rows (height) and columns (width), one foreach of the three channels.  Together,these are passed to an image-writing library for outputtingto a  file and displaying.
+# Image Processing Repository
+
+Welcome to the **Image Processing** repository! This project is a collection of tools and scripts designed to perform various image processing tasks, such as filtering, transformation, enhancement, and analysis. Whether you're working on computer vision, machine learning, or just experimenting with image manipulation, this repository provides a solid foundation for your projects.
+
+## Features
+
+- **Image Filtering**: Apply filters like Gaussian blur, edge detection, and sharpening.
+- **Image Transformation**: Perform operations like resizing, rotating, and flipping.
+- **Color Manipulation**: Adjust brightness, contrast, and saturation, or convert images to grayscale.
+- **Feature Detection**: Detect edges, corners, and other key features in images.
+- **Batch Processing**: Process multiple images in a directory simultaneously.
